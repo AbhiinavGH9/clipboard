@@ -270,7 +270,7 @@
                     </div>
 
                     <div class="flex items-center justify-between text-[10px] text-gray-500 px-1">
-                        <span>Core v2.9</span>
+                        <span>AnvCore v3.0</span>
                         <span id="storage-status" class="flex items-center text-emerald-400 font-medium"><i data-lucide="shield-check" class="w-3 h-3 mr-1"></i> Autosaved</span>
                     </div>
                 </div>
